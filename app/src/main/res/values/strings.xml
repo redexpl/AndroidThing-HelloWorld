@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidThing-HelloWorld</string>
+    <string name="button_text">On/Off</string>
+</resources>
